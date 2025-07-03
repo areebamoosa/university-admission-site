@@ -4,8 +4,6 @@ This project is a responsive front-end website designed for a university admissi
 
 ## Features
 
-- Clean and semantic HTML5 markup
-- Modern and consistent CSS styling
 - Sections for courses, facilities, and campus introduction
 - Fully responsive across all device sizes
 
